@@ -87,22 +87,3 @@ Les captures d'écran se trouvent dans le dossier `screenshots/` à la racine du
 
 ---
 
-## 🚀 Installation & Exécution
-
-1. **Cloner le projet** :
-   ```bash
-   git clone https://github.com/votre-compte/CurrencyConverter.git
-   ```
-2. **Ouvrir dans Android Studio** :
-   - Sélectionner **Open an existing project**.
-   - Choisir le dossier du projet cloner.
-3. **Exécuter l'application** :
-   - Sélectionner un émulateur ou un appareil physique Android.
-   - Cliquer sur le bouton **Run 'app'** (`Shift + F10`).
-
----
-
-## 👨‍💻 Auteur
-
-- **Projet TP réalisé par** : [Votre Nom et Prénom]
-- **Encadré par** : @TAHAR Haouet
